@@ -27,7 +27,9 @@ Built with **Electron + React + Vite + Monaco Editor**.
 
 ## 📸 Preview
 
-> JSON output with syntax highlighting after running `App\Models\User::all()` against a real Laravel database.
+![TinkerClone Screenshot](./screenshots/preview.png)
+
+> Running `App\Models\User::first()` against a real Laravel database — output rendered as color-coded JSON.
 
 ---
 
